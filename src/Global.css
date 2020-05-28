@@ -1,0 +1,13 @@
+* {
+	box-sizing: border-box;
+  transition: all .1s ease-in;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: rgb(26,26,26);
+  background: linear-gradient(90deg, rgba(26,26,26,1) 0%, rgba(37,37,37,1) 35%, rgb(115, 115, 115) 100%);
+  color: azure;
+  background-image: url("assets/placeholder.png");
+}
